@@ -1,3 +1,5 @@
+/* 字符串反转 */
+
 #include <iostream>
 #include <algorithm>
 #include <cstring>

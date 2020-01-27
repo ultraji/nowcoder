@@ -1,3 +1,5 @@
+/* 合并表记录 */
+
 #include <iostream>
 #include <map>
 using namespace std;

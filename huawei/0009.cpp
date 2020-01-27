@@ -1,3 +1,5 @@
+/* 提取不重复的整数 */
+
 #include <iostream>
 using namespace std;
 

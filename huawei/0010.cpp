@@ -1,3 +1,5 @@
+/* 字符个数统计 */
+
 #include <iostream>
 #include <cstring>
 using namespace std;

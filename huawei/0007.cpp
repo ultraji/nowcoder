@@ -1,3 +1,5 @@
+/* 取近似值 */
+
 #include<iostream>
 using namespace std;
 
