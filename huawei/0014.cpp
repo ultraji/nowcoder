@@ -1,4 +1,4 @@
-/* 字串的连接最长路径查找 */
+// 0014.字串的连接最长路径查找
 
 #include <iostream>
 #include <string>

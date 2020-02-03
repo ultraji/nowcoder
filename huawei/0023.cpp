@@ -1,4 +1,4 @@
-/* 删除字符串中出现次数最少的字符 */
+// 0023.删除字符串中出现次数最少的字符
 
 #include <iostream>
 #include <cstring>

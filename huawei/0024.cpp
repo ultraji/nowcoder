@@ -1,4 +1,4 @@
-/* 合唱队 */
+// 0024.合唱队
 
 #include <iostream>
 using namespace std;

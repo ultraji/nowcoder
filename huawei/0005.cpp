@@ -1,4 +1,4 @@
-/* 进制转换 */
+// 0005.进制转换
 
 #include <iostream>
 #include <algorithm>

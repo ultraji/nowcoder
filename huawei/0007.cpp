@@ -1,4 +1,4 @@
-/* 取近似值 */
+// 0007.取近似值
 
 #include<iostream>
 using namespace std;

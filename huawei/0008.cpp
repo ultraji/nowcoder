@@ -1,4 +1,4 @@
-/* 合并表记录 */
+// 0008.合并表记录
 
 #include <iostream>
 #include <map>

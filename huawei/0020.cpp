@@ -1,4 +1,4 @@
-/* 密码验证合格程序 */
+// 0020.密码验证合格程序
 
 #include <iostream>
 using namespace std;

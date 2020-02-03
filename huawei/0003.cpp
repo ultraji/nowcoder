@@ -1,4 +1,4 @@
-/* 明明的随机数 */
+// 0003.明明的随机数
 
 #include <iostream>
 #include <cstring>

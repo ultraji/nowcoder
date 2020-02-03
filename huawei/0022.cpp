@@ -1,4 +1,4 @@
-/* 汽水瓶 */
+// 0022.汽水瓶
 
 #include <iostream>
 using namespace std;

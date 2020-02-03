@@ -1,4 +1,4 @@
-/* 字符串最后一个单词的长度 */
+// 0001.字符串最后一个单词的长度
 
 #include <iostream>
 #include <cstring>
@@ -15,7 +15,6 @@ int main()
     {
         if(s[i] == ' ') break;
         cnt ++;
-        
     }
     cout << cnt;
 

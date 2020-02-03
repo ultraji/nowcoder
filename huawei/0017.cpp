@@ -1,4 +1,4 @@
-/* 坐标移动 */
+// 0017.坐标移动
 
 #include <iostream>
 #include <cstring>

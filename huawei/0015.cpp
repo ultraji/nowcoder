@@ -1,4 +1,4 @@
-/* 求int型数据在内存中存储时1的个数 */
+// 0015.求int型数据在内存中存储时1的个数
 
 #include <iostream>
 using namespace std;

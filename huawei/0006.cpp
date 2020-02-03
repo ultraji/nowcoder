@@ -1,4 +1,4 @@
-/* 质数因子 */
+// 0006.质数因子
 
 #include <iostream>
 #include <cmath>

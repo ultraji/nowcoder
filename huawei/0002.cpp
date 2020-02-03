@@ -1,4 +1,4 @@
-/* 计算字符个数 */
+// 0002.计算字符个数
 
 #include <iostream>
 #include <cstring>

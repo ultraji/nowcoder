@@ -1,4 +1,4 @@
-/* 字符个数统计 */
+// 0010.字符个数统计
 
 #include <iostream>
 #include <cstring>

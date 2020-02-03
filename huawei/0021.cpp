@@ -1,4 +1,4 @@
-/* 简单密码破解 */
+// 0021.简单密码破解
 
 #include <iostream>
 #include <cstring>
