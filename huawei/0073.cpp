@@ -1,4 +1,4 @@
-/* 计算日期到天数转换 */
+// 0073.计算日期到天数转换
 
 #include <iostream>
 using namespace std;

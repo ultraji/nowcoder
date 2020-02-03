@@ -1,4 +1,4 @@
-/* 百钱买百鸡问题 */
+// 0072.百钱买百鸡问题
 
 #include <iostream>
 using namespace std;

@@ -1,4 +1,4 @@
-/* 超长正整数相加 */
+// 0078.超长正整数相加
 
 #include <iostream>
 #include <string>

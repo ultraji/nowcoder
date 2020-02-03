@@ -1,4 +1,4 @@
-/* DNA序列 */
+// 0063.DNA序列
 
 #include <iostream>
 using namespace std;

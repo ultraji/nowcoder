@@ -1,4 +1,4 @@
-/* 字符串匹配 */
+// 0081.字符串匹配
 
 #include <iostream>
 #include <cstring>

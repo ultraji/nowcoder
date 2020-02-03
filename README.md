@@ -33,6 +33,41 @@
 | 0026 | 字符串排序 | [Accepted](huawei\0026.cpp) |  |
 | 0027 | 查找兄弟单词 | [Accepted](huawei\0027.cpp) |  |
 | 0029 | 字符串加解密 | [Accepted](huawei\0029.cpp) |  |
+| 0030 | 字符串合并处理 | [Accepted](huawei\0030.cpp) |  |
+| 0031 | 【中级】单词倒排 | [Accepted](huawei\0031.cpp) |  |
+| 0033 | 整数与IP地址间的转换 | [Accepted](huawei\0033.cpp) |  |
 | 0061 | 放苹果 | [Accepted](huawei\0061.cpp) |  |
 | 0062 | 查找输入整数二进制中1的个数 | [Accepted](huawei\0062.cpp) |  |
+| 0063 | DNA序列 | [Accepted](huawei\0063.cpp) |  |
+| 0068 | 成绩排序 | [Accepted](huawei\0068.cpp) |  |
+| 0070 | 矩阵乘法计算量估算 | [Accepted](huawei\0070.cpp) |  |
+| 0071 | 字符串通配符 | [Accepted](huawei\0071.cpp) | [递归]( )、 |
+| 0072 | 百钱买百鸡问题 | [Accepted](huawei\0072.cpp) |  |
+| 0073 | 计算日期到天数转换 | [Accepted](huawei\0073.cpp) |  |
+| 0074 | 参数解析 | [Accepted](huawei\0074.cpp) |  |
+| 0076 | 尼科彻斯定理 | [Accepted](huawei\0076.cpp) |  |
+| 0078 | 超长正整数相加 | [Accepted](huawei\0078.cpp) |  |
+| 0080 | 整形数组合并 | [Accepted](huawei\0080.cpp) |  |
+| 0081 | 字符串匹配 | [Accepted](huawei\0081.cpp) |  |
+| 0082 | 将真分数分解为埃及分数 | [Accepted](huawei\0082.cpp) |  |
+| 0083 | 统计大写字母个数 | [Accepted](huawei\0084.cpp) |  |
+| 0086 | 求最大连续bit数 | [Accepted](huawei\0086.cpp) |  |
+| 0087 | 密码强度等级 | [Accepted](huawei\0087.cpp) |  |
+| 0090 | 合法IP | [Accepted](huawei\0090.cpp) |  |
+| 0091 | 201301 JAVA 题目2-3级 | [Accepted](huawei\0091.cpp) |  |
+| 0092 | 在字符串中找出连续最长的数字串 | [Accepted](huawei\0092.cpp) |  |
+| 0093 | 201301 JAVA题目0-1级 | [Accepted](huawei\0093.cpp) |  |
+| 0094 | 记票统计 | [Accepted](huawei\0094.cpp) |  |
+| 0096 | 表示数字 | [Accepted](huawei\0096.cpp) |  |
+| 0097 | 记负均正 | [Accepted](huawei\0097.cpp) |  |
+| 0099 | 自守数 | [Accepted](huawei\0099.cpp) |  |
+| 0100 | 等差数列 | [Accepted](huawei\0100.cpp) |  |
+| 0101 | 输入整型数组和排序标识，对其元素按照升序或降序进行排序 | [Accepted](huawei\0101.cpp) |  |
+| 0102 | 字符统计 | [Accepted](huawei\0102.cpp) |  |
+| 0103 | Redraiment的走法 | [Accepted](huawei\0103.cpp) | [最长上升子序列]( )、 |
+| 0104 | 字符串分割 | [Accepted](huawei\0104.cpp) |  |
+| 0105 | 记负均正II | [Accepted](huawei\0105.cpp) |  |
+| 0106 | 字符逆序 | [Accepted](huawei\0106.cpp) |  |
+| 0107 | 求解立方根 | [Accepted](huawei\0107.cpp) | [牛顿迭代法]( )、 |
+| 0108 | 求最小公倍数 | [Accepted](huawei\0108.cpp) |  |
 

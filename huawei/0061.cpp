@@ -1,4 +1,4 @@
-/* 放苹果 */
+// 0061.放苹果
 
 #include <iostream>
 using namespace std;

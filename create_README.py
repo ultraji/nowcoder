@@ -47,8 +47,9 @@ def _creat_table_row(path):
     if keywords.find("keywords:") != -1:
         for keyword in keywords[13:-1].split('、'):
             print(keyword)
-            if keyword in keyword_url:
-                row_str += "[" + keyword + "](" + keyword_url[keyword] + ")" + "、"
+            if not keyword in keyword_url:
+                keyword_url[keyword] = " "
+            row_str += "[" + keyword + "](" + keyword_url[keyword] + ")" + "、"
     row_str +=  " |\n"
     return row_str
 

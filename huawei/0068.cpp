@@ -1,4 +1,4 @@
-/* 成绩排序 */
+// 0068.成绩排序
 
 #include <iostream>
 #include <algorithm>

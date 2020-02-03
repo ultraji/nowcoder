@@ -1,4 +1,4 @@
-/* 矩阵乘法计算量估算 */
+// 0070.矩阵乘法计算量估算
 
 #include <iostream>
 #include <vector>

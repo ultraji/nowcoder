@@ -1,4 +1,4 @@
-/* 求最大连续bit数 */
+// 0086.求最大连续bit数
 
 #include <iostream>
 using namespace std;

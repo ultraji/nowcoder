@@ -1,4 +1,4 @@
-/* 从输入任意个整型数，统计其中的负数个数并求所有非负数的平均值 */
+// 0105.记负均正II
 
 #include <iostream>
 using namespace std;

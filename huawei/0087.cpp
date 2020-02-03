@@ -1,4 +1,4 @@
-/* 密码强度等级 */
+// 0087.密码强度等级
 
 #include <iostream>
 #include <cstring>

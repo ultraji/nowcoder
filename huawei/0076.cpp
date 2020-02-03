@@ -1,4 +1,4 @@
-/* 尼科彻斯定理 */
+// 0076.尼科彻斯定理
 
 #include <iostream>
 using namespace std;

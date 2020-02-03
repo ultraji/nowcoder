@@ -1,4 +1,5 @@
-/* 字符串通配符 */
+// 0071.字符串通配符
+// keywords: 递归
 
 #include <iostream>
 using namespace std;

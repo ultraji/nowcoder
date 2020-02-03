@@ -1,11 +1,4 @@
-/*
- 将一个字符中所有出现的数字前后加上符号“*”，其他字符保持不变
- public static String MarkNum(String pInStr)
- {
-     return null;
- }
- 注意：输入数据可能有多行
- */
+// 0096.表示数字
 
 #include <iostream>
 #include <cstring>

@@ -1,4 +1,4 @@
-/* 查找输入整数二进制中1的个数 */
+// 0062.查找输入整数二进制中1的个数
 
 #include <iostream>
 using namespace std;
