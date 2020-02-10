@@ -28,14 +28,31 @@
 | 0021 | 简单密码破解 | [Accepted](huawei\0021.cpp) |  |
 | 0022 | 汽水瓶 | [Accepted](huawei\0022.cpp) |  |
 | 0023 | 删除字符串中出现次数最少的字符 | [Accepted](huawei\0023.cpp) |  |
-| 0024 | 合唱队 | [Accepted](huawei\0024.cpp) |  |
+| 0024 | 合唱队 | [Accepted](huawei\0024.cpp) | [最长上升子序列]( )、 |
 | 0025 | 数据分类处理 | [Accepted](huawei\0025.cpp) |  |
 | 0026 | 字符串排序 | [Accepted](huawei\0026.cpp) |  |
 | 0027 | 查找兄弟单词 | [Accepted](huawei\0027.cpp) |  |
 | 0029 | 字符串加解密 | [Accepted](huawei\0029.cpp) |  |
 | 0030 | 字符串合并处理 | [Accepted](huawei\0030.cpp) |  |
 | 0031 | 【中级】单词倒排 | [Accepted](huawei\0031.cpp) |  |
+| 0032 | 字符串运用-密码截 | [Accepted](huawei\0032.cpp) |  |
 | 0033 | 整数与IP地址间的转换 | [Accepted](huawei\0033.cpp) |  |
+| 0034 | 图片整理 | [Accepted](huawei\0034.cpp) |  |
+| 0035 | 蛇形矩阵 | [Accepted](huawei\0035.cpp) |  |
+| 0036 | 字符串加密 | [Accepted](huawei\0036.cpp) |  |
+| 0037 | 统计每个月兔子的总数 | [Accepted](huawei\0037.cpp) |  |
+| 0038 | 求小球落地5次后所经历的路程和第5次反弹的高度 | [Accepted](huawei\0038.cpp) |  |
+| 0040 | 输入一行字符，分别统计出包含英文字母、空格、数字和其它字符的个数 | [Accepted](huawei\0040.cpp) |  |
+| 0041 | 称砝 | [Accepted](huawei\0041.cpp) |  |
+| 0042 | 学英语 | [Accepted](huawei\0042.cpp) |  |
+| 0043 | 迷宫问题 | [Accepted](huawei\0043.cpp) | [树的遍历]( )、 |
+| 0044 | Sudoku-Java | [Accepted](huawei\0044.cpp) |  |
+| 0045 | 名字的漂亮度 | [Accepted](huawei\0045.cpp) |  |
+| 0046 | 按字节截取字符串 | [Accepted](huawei\0046.cpp) |  |
+| 0053 | iNOC产品部-杨辉三角的变形 | [Accepted](huawei\0053.cpp) |  |
+| 0055 | （练习用）挑7 | [Accepted](huawei\0055.cpp) |  |
+| 0056 | iNOC产品部--完全数计算 | [Accepted](huawei\0056.cpp) |  |
+| 0059 | 找出字符串中第一个只出现一次的字符 | [Accepted](huawei\0059.cpp) |  |
 | 0061 | 放苹果 | [Accepted](huawei\0061.cpp) |  |
 | 0062 | 查找输入整数二进制中1的个数 | [Accepted](huawei\0062.cpp) |  |
 | 0063 | DNA序列 | [Accepted](huawei\0063.cpp) |  |
@@ -58,8 +75,10 @@
 | 0092 | 在字符串中找出连续最长的数字串 | [Accepted](huawei\0092.cpp) |  |
 | 0093 | 201301 JAVA题目0-1级 | [Accepted](huawei\0093.cpp) |  |
 | 0094 | 记票统计 | [Accepted](huawei\0094.cpp) |  |
+| 0095 | 人民币转换 | [Accepted](huawei\0095.cpp) |  |
 | 0096 | 表示数字 | [Accepted](huawei\0096.cpp) |  |
 | 0097 | 记负均正 | [Accepted](huawei\0097.cpp) |  |
+| 0098 | 自动售货系统 | [Accepted](huawei\0098.cpp) |  |
 | 0099 | 自守数 | [Accepted](huawei\0099.cpp) |  |
 | 0100 | 等差数列 | [Accepted](huawei\0100.cpp) |  |
 | 0101 | 输入整型数组和排序标识，对其元素按照升序或降序进行排序 | [Accepted](huawei\0101.cpp) |  |

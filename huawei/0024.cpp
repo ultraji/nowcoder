@@ -1,4 +1,5 @@
 // 0024.合唱队
+// keywords: 最长上升子序列
 
 #include <iostream>
 using namespace std;

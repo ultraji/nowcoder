@@ -4,21 +4,6 @@ import os
 import re
 
 keyword_url = {
-    'map':'',
-    '字符串':'',
-    '完全二叉树':'',
-    'AVL树':'',
-    '动态规划':'',
-    '贪心':'',
-    '背包问题':'',
-    '并查集':'',
-    'BST':'',
-    '前中后序遍历':'',
-    'hash数组':'',
-    '层序遍历':'', 
-    '快排':'',
-    'DFS':'',
-    'BFS':'',
     'Dijkstra算法':'https://ultraji.xyz/2019/06/algorithm_dijkstra.html'
 }
 
