@@ -26,6 +26,7 @@ void readItAfterPlot(string num)
 
 void readItBeforePlot(string s)
 {
+    if (s != "0") return;
     int j = s.size()-1;
     if(!(j%4 == 1 && s[0] == '1')) {
         cout << ge[s[0]-'0'];
@@ -40,12 +41,14 @@ void readItBeforePlot(string s)
         if(s[i] != '0') {
             if(s[i-1] == '0') cout << "零";
             //if(!((j-i)%4 == 1 && s[i] == '1')) {
-                // 513.00 是伍佰壹拾叁元 还是 伍佰拾叁元的区别。
+                // 513.00 是伍佰壹拾叁元还是伍佰拾叁元的区别。
                 cout << ge[s[i]-'0'];
             //}
             cout << ot[j-i];
         }
     }
+    cout << "元";
+    return ;
 }
 
 int main()
@@ -57,10 +60,7 @@ int main()
         string t1 = s.substr(0, idx);
         string t2 = s.substr(idx+1);
         cout << "人民币";
-        if (t1!="0") {
-            readItBeforePlot(t1);
-            cout << "元";
-        }
+        readItBeforePlot(t1);
         readItAfterPlot(t2);
         cout << endl;
     }
