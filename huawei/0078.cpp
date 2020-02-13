@@ -1,4 +1,5 @@
 // 0078.超长正整数相加
+// keywords: 模拟加法
 
 #include <iostream>
 #include <string>
