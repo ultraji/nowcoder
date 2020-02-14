@@ -15,8 +15,6 @@ void readItAfterPlot(string num)
     }
     if (num[0] > '0') {
         cout << ge[num[0]-'0'] << "角";
-    } else {
-        cout << "零";
     }
     if (num[1] > '0') {
         cout << ge[num[1]-'0'] << "分";
@@ -26,7 +24,7 @@ void readItAfterPlot(string num)
 
 void readItBeforePlot(string s)
 {
-    if (s != "0") return;
+    if (s == "0") return;
     int j = s.size()-1;
     if(!(j%4 == 1 && s[0] == '1')) {
         cout << ge[s[0]-'0'];
@@ -35,6 +33,7 @@ void readItBeforePlot(string s)
     for(int i = 1; i < s.size(); i++)
     {
         if( (j-i)%4 == 0  && s[i] == '0') {
+            if (i >= 4 && j-i == 4 && s[i-1] + s[i-2] + s[i-3] == '0'*3) continue; // 100000001.11
             cout << ot[j-i];
             continue;
         }
