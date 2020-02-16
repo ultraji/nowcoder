@@ -42,6 +42,7 @@
 | 0036 | 字符串加密 | [Accepted](huawei\0036.cpp) |  |
 | 0037 | 统计每个月兔子的总数 | [Accepted](huawei\0037.cpp) |  |
 | 0038 | 求小球落地5次后所经历的路程和第5次反弹的高度 | [Accepted](huawei\0038.cpp) |  |
+| 0039 | 判断两个IP是否属于同一子网 | [Accepted](huawei\0039.cpp) | [题目不见]( )、 |
 | 0040 | 输入一行字符，分别统计出包含英文字母、空格、数字和其它字符的个数 | [Accepted](huawei\0040.cpp) |  |
 | 0041 | 称砝 | [Accepted](huawei\0041.cpp) |  |
 | 0042 | 学英语 | [Accepted](huawei\0042.cpp) |  |
@@ -49,13 +50,24 @@
 | 0044 | Sudoku-Java | [Accepted](huawei\0044.cpp) |  |
 | 0045 | 名字的漂亮度 | [Accepted](huawei\0045.cpp) |  |
 | 0046 | 按字节截取字符串 | [Accepted](huawei\0046.cpp) |  |
+| 0047 | 线性插值 | [Accepted](huawei\0047.cpp) |  |
+| 0048 | 从单向链表中删除指定值的节点 | [Accepted](huawei\0048.cpp) |  |
+| 0049 | 多线程 | [Accepted](huawei\0049.cpp) |  |
+| 0050 | 四则运算 | [Accepted](huawei\0050.cpp) |  |
+| 0051 | 输出单向链表中倒数第k个结点 | [Accepted](huawei\0051.cpp) |  |
 | 0053 | iNOC产品部-杨辉三角的变形 | [Accepted](huawei\0053.cpp) |  |
+| 0054 | 表达式求值 | [Accepted](huawei\0054.cpp) |  |
 | 0055 | （练习用）挑7 | [Accepted](huawei\0055.cpp) |  |
 | 0056 | iNOC产品部--完全数计算 | [Accepted](huawei\0056.cpp) |  |
+| 0057 | 无线OSS－高精度整数加法 | [Accepted](huawei\0057.cpp) |  |
+| 0058 | 输入n个整数，输出其中最小的k个 | [Accepted](huawei\0058.cpp) |  |
 | 0059 | 找出字符串中第一个只出现一次的字符 | [Accepted](huawei\0059.cpp) |  |
+| 0060 | 查找组成一个偶数最接近的两个素数 | [Accepted](huawei\0060.cpp) |  |
 | 0061 | 放苹果 | [Accepted](huawei\0061.cpp) |  |
 | 0062 | 查找输入整数二进制中1的个数 | [Accepted](huawei\0062.cpp) |  |
 | 0063 | DNA序列 | [Accepted](huawei\0063.cpp) |  |
+| 0064 | MP3光标位置 | [Accepted](huawei\0064.cpp) |  |
+| 0067 | 24点游戏算法 | [Accepted](huawei\0067.cpp) |  |
 | 0068 | 成绩排序 | [Accepted](huawei\0068.cpp) |  |
 | 0070 | 矩阵乘法计算量估算 | [Accepted](huawei\0070.cpp) |  |
 | 0071 | 字符串通配符 | [Accepted](huawei\0071.cpp) | [递归]( )、 |
@@ -63,13 +75,17 @@
 | 0073 | 计算日期到天数转换 | [Accepted](huawei\0073.cpp) |  |
 | 0074 | 参数解析 | [Accepted](huawei\0074.cpp) |  |
 | 0076 | 尼科彻斯定理 | [Accepted](huawei\0076.cpp) |  |
-| 0078 | 超长正整数相加 | [Accepted](huawei\0078.cpp) |  |
+| 0078 | 超长正整数相加 | [Accepted](huawei\0078.cpp) | [模拟加法]( )、 |
 | 0080 | 整形数组合并 | [Accepted](huawei\0080.cpp) |  |
 | 0081 | 字符串匹配 | [Accepted](huawei\0081.cpp) |  |
 | 0082 | 将真分数分解为埃及分数 | [Accepted](huawei\0082.cpp) |  |
+| 0083 | 二维数组操作 | [Accepted](huawei\0083.cpp) |  |
 | 0083 | 统计大写字母个数 | [Accepted](huawei\0084.cpp) |  |
+| 0085 | 字符串运用-密码截取 | [Accepted](huawei\0085.cpp) |  |
 | 0086 | 求最大连续bit数 | [Accepted](huawei\0086.cpp) |  |
 | 0087 | 密码强度等级 | [Accepted](huawei\0087.cpp) |  |
+| 0088 | 扑克牌大小 | [Accepted](huawei\0088.cpp) |  |
+| 0089 | 24点运算 | [Accepted](huawei\0089.cpp) |  |
 | 0090 | 合法IP | [Accepted](huawei\0090.cpp) |  |
 | 0091 | 201301 JAVA 题目2-3级 | [Accepted](huawei\0091.cpp) |  |
 | 0092 | 在字符串中找出连续最长的数字串 | [Accepted](huawei\0092.cpp) |  |
