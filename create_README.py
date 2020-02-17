@@ -28,6 +28,7 @@ def _creat_table_row(path):
         id_title = str(tmp.readline())
         keywords = str(tmp.readline())
     id, title = id_title[3:7],id_title[8:-1]
+    path = path.replace("\\", "/")
     row_str = "| "+ id + " | " + title + " | " + "[Accepted](" + path + ")" + " | "
     if keywords.find("keywords:") != -1:
         for keyword in keywords[13:-1].split('、'):
