@@ -1,11 +1,11 @@
-// 0050.四则运算
+// 0054.表达式求值
 
 #include <iostream>
 #include <stack>
 using namespace std;
 
-string mp = "+-*/)]}";
-// 当前运算符与符号栈的栈顶运算符做优先级比较，如果当前优先级高，则不做运算压入栈中，相同进行运算
+string mp = "+-*/)";
+
 bool cmp(char c1, char c2)
 {
     if (c1 =='(') {
@@ -44,9 +44,9 @@ int main()
         bool nextIsOp = false;
         for(int i = 0; i < s.size(); i++)
         {
-            if(s[i]=='{' || s[i]=='[' || s[i]=='(') {
+            if(s[i]=='(') {
                 so.push('(');
-            } else if(s[i]==')' || s[i]==']' || s[i]=='}') {
+            } else if(s[i]==')') {
                 while(so.top() != '(') doCal(st, so);
                 so.pop();
             } else if (nextIsOp) {

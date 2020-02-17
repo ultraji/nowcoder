@@ -67,6 +67,7 @@
 | 0062 | 查找输入整数二进制中1的个数 | [Accepted](huawei\0062.cpp) |  |
 | 0063 | DNA序列 | [Accepted](huawei\0063.cpp) |  |
 | 0064 | MP3光标位置 | [Accepted](huawei\0064.cpp) |  |
+| 0066 | 配置文件恢复 | [Accepted](huawei\0066.cpp) |  |
 | 0067 | 24点游戏算法 | [Accepted](huawei\0067.cpp) |  |
 | 0068 | 成绩排序 | [Accepted](huawei\0068.cpp) |  |
 | 0070 | 矩阵乘法计算量估算 | [Accepted](huawei\0070.cpp) |  |
