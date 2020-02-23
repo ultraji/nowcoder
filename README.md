@@ -54,7 +54,7 @@
 | 0049 | 多线程 | [Accepted](huawei/0049.cpp) |  |
 | 0050 | 四则运算 | [Accepted](huawei/0050.cpp) |  |
 | 0051 | 输出单向链表中倒数第k个结点 | [Accepted](huawei/0051.cpp) |  |
-| 0052 | 计算字符串的距离 | [Accepted](huawei/0052.cpp) |  |
+| 0052 | 计算字符串的距离 | [Accepted](huawei/0052.cpp) | [levenshtein距离]( )、 |
 | 0053 | iNOC产品部-杨辉三角的变形 | [Accepted](huawei/0053.cpp) |  |
 | 0054 | 表达式求值 | [Accepted](huawei/0054.cpp) |  |
 | 0055 | （练习用）挑7 | [Accepted](huawei/0055.cpp) |  |
@@ -67,7 +67,7 @@
 | 0062 | 查找输入整数二进制中1的个数 | [Accepted](huawei/0062.cpp) |  |
 | 0063 | DNA序列 | [Accepted](huawei/0063.cpp) |  |
 | 0064 | MP3光标位置 | [Accepted](huawei/0064.cpp) |  |
-| 0065 | 查找两个字符串a,b中的最长公共子串 | [Accepted](huawei/0065.cpp) |  |
+| 0065 | 查找两个字符串a,b中的最长公共子串 | [Accepted](huawei/0065.cpp) | [最长公共子串]( )、 |
 | 0066 | 配置文件恢复 | [Accepted](huawei/0066.cpp) |  |
 | 0067 | 24点游戏算法 | [Accepted](huawei/0067.cpp) |  |
 | 0068 | 成绩排序 | [Accepted](huawei/0068.cpp) |  |
@@ -76,11 +76,11 @@
 | 0072 | 百钱买百鸡问题 | [Accepted](huawei/0072.cpp) |  |
 | 0073 | 计算日期到天数转换 | [Accepted](huawei/0073.cpp) |  |
 | 0074 | 参数解析 | [Accepted](huawei/0074.cpp) |  |
-| 0075 | 公共字串计算 | [Accepted](huawei/0075.cpp) |  |
+| 0075 | 公共字串计算 | [Accepted](huawei/0075.cpp) | [最长公共子串]( )、 |
 | 0076 | 尼科彻斯定理 | [Accepted](huawei/0076.cpp) |  |
-| 0077 | 火车进站 | [Accepted](huawei/0077.cpp) |  |
+| 0077 | 火车进站 | [Accepted](huawei/0077.cpp) | [堆栈]( )、 |
 | 0078 | 超长正整数相加 | [Accepted](huawei/0078.cpp) | [模拟加法]( )、 |
-| 0079 | 计算字符串的相似度 | [Accepted](huawei/0079.cpp) |  |
+| 0079 | 计算字符串的相似度 | [Accepted](huawei/0079.cpp) | [levenshtein距离]( )、 |
 | 0080 | 整形数组合并 | [Accepted](huawei/0080.cpp) |  |
 | 0081 | 字符串匹配 | [Accepted](huawei/0081.cpp) |  |
 | 0082 | 将真分数分解为埃及分数 | [Accepted](huawei/0082.cpp) |  |

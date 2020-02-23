@@ -1,4 +1,5 @@
 // 0075.公共字串计算
+// keywords: 最长公共子串
 
 #include <iostream>
 using namespace std;

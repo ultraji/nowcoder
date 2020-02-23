@@ -1,4 +1,5 @@
 // 0065.查找两个字符串a,b中的最长公共子串
+// keywords: 最长公共子串
 
 #include <iostream>
 using namespace std;
