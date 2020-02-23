@@ -35,7 +35,6 @@
 | 0029 | 字符串加解密 | [Accepted](huawei/0029.cpp) |  |
 | 0030 | 字符串合并处理 | [Accepted](huawei/0030.cpp) |  |
 | 0031 | 【中级】单词倒排 | [Accepted](huawei/0031.cpp) |  |
-| 0032 | 字符串运用-密码截 | [Accepted](huawei/0032.cpp) |  |
 | 0033 | 整数与IP地址间的转换 | [Accepted](huawei/0033.cpp) |  |
 | 0034 | 图片整理 | [Accepted](huawei/0034.cpp) |  |
 | 0035 | 蛇形矩阵 | [Accepted](huawei/0035.cpp) |  |
@@ -44,7 +43,7 @@
 | 0038 | 求小球落地5次后所经历的路程和第5次反弹的高度 | [Accepted](huawei/0038.cpp) |  |
 | 0039 | 判断两个IP是否属于同一子网 | [Accepted](huawei/0039.cpp) | [题目不见]( )、 |
 | 0040 | 输入一行字符，分别统计出包含英文字母、空格、数字和其它字符的个数 | [Accepted](huawei/0040.cpp) |  |
-| 0041 | 称砝 | [Accepted](huawei/0041.cpp) |  |
+| 0041 | 称砝码 | [Accepted](huawei/0041.cpp) |  |
 | 0042 | 学英语 | [Accepted](huawei/0042.cpp) |  |
 | 0043 | 迷宫问题 | [Accepted](huawei/0043.cpp) | [树的遍历]( )、 |
 | 0044 | Sudoku-Java | [Accepted](huawei/0044.cpp) |  |
@@ -55,6 +54,7 @@
 | 0049 | 多线程 | [Accepted](huawei/0049.cpp) |  |
 | 0050 | 四则运算 | [Accepted](huawei/0050.cpp) |  |
 | 0051 | 输出单向链表中倒数第k个结点 | [Accepted](huawei/0051.cpp) |  |
+| 0052 | 计算字符串的距离 | [Accepted](huawei/0052.cpp) |  |
 | 0053 | iNOC产品部-杨辉三角的变形 | [Accepted](huawei/0053.cpp) |  |
 | 0054 | 表达式求值 | [Accepted](huawei/0054.cpp) |  |
 | 0055 | （练习用）挑7 | [Accepted](huawei/0055.cpp) |  |
@@ -67,6 +67,7 @@
 | 0062 | 查找输入整数二进制中1的个数 | [Accepted](huawei/0062.cpp) |  |
 | 0063 | DNA序列 | [Accepted](huawei/0063.cpp) |  |
 | 0064 | MP3光标位置 | [Accepted](huawei/0064.cpp) |  |
+| 0065 | 查找两个字符串a,b中的最长公共子串 | [Accepted](huawei/0065.cpp) |  |
 | 0066 | 配置文件恢复 | [Accepted](huawei/0066.cpp) |  |
 | 0067 | 24点游戏算法 | [Accepted](huawei/0067.cpp) |  |
 | 0068 | 成绩排序 | [Accepted](huawei/0068.cpp) |  |
@@ -75,14 +76,16 @@
 | 0072 | 百钱买百鸡问题 | [Accepted](huawei/0072.cpp) |  |
 | 0073 | 计算日期到天数转换 | [Accepted](huawei/0073.cpp) |  |
 | 0074 | 参数解析 | [Accepted](huawei/0074.cpp) |  |
+| 0075 | 公共字串计算 | [Accepted](huawei/0075.cpp) |  |
 | 0076 | 尼科彻斯定理 | [Accepted](huawei/0076.cpp) |  |
+| 0077 | 火车进站 | [Accepted](huawei/0077.cpp) |  |
 | 0078 | 超长正整数相加 | [Accepted](huawei/0078.cpp) | [模拟加法]( )、 |
+| 0079 | 计算字符串的相似度 | [Accepted](huawei/0079.cpp) |  |
 | 0080 | 整形数组合并 | [Accepted](huawei/0080.cpp) |  |
 | 0081 | 字符串匹配 | [Accepted](huawei/0081.cpp) |  |
 | 0082 | 将真分数分解为埃及分数 | [Accepted](huawei/0082.cpp) |  |
 | 0083 | 二维数组操作 | [Accepted](huawei/0083.cpp) |  |
 | 0083 | 统计大写字母个数 | [Accepted](huawei/0084.cpp) |  |
-| 0085 | 字符串运用-密码截取 | [Accepted](huawei/0085.cpp) |  |
 | 0086 | 求最大连续bit数 | [Accepted](huawei/0086.cpp) |  |
 | 0087 | 密码强度等级 | [Accepted](huawei/0087.cpp) |  |
 | 0088 | 扑克牌大小 | [Accepted](huawei/0088.cpp) |  |
