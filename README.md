@@ -21,6 +21,7 @@
 | 0013 | 句子逆序 | [Accepted](huawei/0013.cpp) |  |
 | 0014 | 字串的连接最长路径查找 | [Accepted](huawei/0014.cpp) |  |
 | 0015 | 求int型数据在内存中存储时1的个数 | [Accepted](huawei/0015.cpp) |  |
+| 0016 | 购物单 | [Accepted](huawei/0016.cpp) | [背包问题]( )、[动态规划]( )、 |
 | 0017 | 坐标移动 | [Accepted](huawei/0017.cpp) |  |
 | 0018 | 识别有效的IP地址和掩码并进行分类统计 | [Accepted](huawei/0018.cpp) |  |
 | 0019 | 简单错误记录 | [Accepted](huawei/0019.cpp) |  |
@@ -32,9 +33,11 @@
 | 0025 | 数据分类处理 | [Accepted](huawei/0025.cpp) |  |
 | 0026 | 字符串排序 | [Accepted](huawei/0026.cpp) |  |
 | 0027 | 查找兄弟单词 | [Accepted](huawei/0027.cpp) |  |
+| 0028 | 素数伴侣 | [Accepted](huawei/0028.cpp) |  |
 | 0029 | 字符串加解密 | [Accepted](huawei/0029.cpp) |  |
 | 0030 | 字符串合并处理 | [Accepted](huawei/0030.cpp) |  |
 | 0031 | 【中级】单词倒排 | [Accepted](huawei/0031.cpp) |  |
+| 0032 | 字符串运用-密码截取 | [Accepted](huawei/0032.cpp) |  |
 | 0033 | 整数与IP地址间的转换 | [Accepted](huawei/0033.cpp) |  |
 | 0034 | 图片整理 | [Accepted](huawei/0034.cpp) |  |
 | 0035 | 蛇形矩阵 | [Accepted](huawei/0035.cpp) |  |
@@ -71,6 +74,7 @@
 | 0066 | 配置文件恢复 | [Accepted](huawei/0066.cpp) |  |
 | 0067 | 24点游戏算法 | [Accepted](huawei/0067.cpp) |  |
 | 0068 | 成绩排序 | [Accepted](huawei/0068.cpp) |  |
+| 0069 | 矩阵乘法 | [Accepted](huawei/0069.cpp) |  |
 | 0070 | 矩阵乘法计算量估算 | [Accepted](huawei/0070.cpp) |  |
 | 0071 | 字符串通配符 | [Accepted](huawei/0071.cpp) | [递归]( )、 |
 | 0072 | 百钱买百鸡问题 | [Accepted](huawei/0072.cpp) |  |
